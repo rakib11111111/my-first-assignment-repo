@@ -1,0 +1,206 @@
+.header {
+    background-color: #fad9d9;
+    height: 850px;
+    width: 1920px;
+    justify-content: space-between;
+
+}
+.banner {
+    padding: 30px 30px 0px 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 240px;
+    padding-bottom: 147px;
+
+}
+
+.btn {
+    padding: 20px 43px;
+    background: hsl(0, 100%, 65%);
+    border-radius: 5px;
+    border: none;
+    color: white;
+
+}
+
+.banner .profile-pic {
+    width: 635px;
+    padding-top: 20px;
+    height: 800px;
+    padding-left: 240px;
+
+}
+
+.bolt {
+    font-size: 80px;
+
+}
+
+.text {
+    color: rgba(39, 39, 39, 0.60);
+
+}
+
+.all-primary {
+    text-align: center;
+    padding top: 50px;
+
+}
+
+.span {
+    color: hsl(0, 100%, 65%);
+
+}
+
+.ptn {
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.first-second {
+    background-size: 20px 0px 20px 2px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fad9d9;
+    margin: 20px 0px 20px 2px;
+    padding-right: 423px;
+    padding-left: 423px;
+    padding-top: 0px;
+}
+
+.image {
+    border: 100px 429px 100px 1175px;
+    width: 318px;
+    height: 420px;
+    padding-bottom: 100px;
+    padding-top: 70px;
+}
+
+.btb {
+    padding-top: 180px;
+    width: 1922px;
+    height: 620px;
+    font-size: 20px;
+}
+
+.bts {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-right: 10px;
+}
+
+.btv {
+    width: 310px;
+    height: 428px;
+    padding-top: 110px;
+}
+
+.btc {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15)
+}
+
+.bta {
+    padding-top: 117px;
+    width: 370px;
+    height: 370px;
+}
+
+.btm {
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.btj {
+    width: 314px;
+    height: 471px;
+    padding-top: 67px;
+}
+
+.ina {
+    text-align: center;
+}
+
+.red {
+    display: flex;
+
+}
+
+.img {
+    display: flex;
+
+}
+
+.oll-primary {
+    display: flex;
+    gap: 20px;
+    padding-left: 240px;
+
+}
+
+.mta {
+    padding-left: 240px;
+}
+
+.att {
+    padding-right: 20px;
+}
+
+.mm {
+    padding-right: 20px;
+
+}
+
+.nn {
+    padding-right: 20px;
+
+}
+
+.bb {
+    padding-right: 20px;
+
+}
+
+.mtb {
+    padding: 150px 240px 577px 240px;
+    padding-left: 240px;
+
+}
+
+.cc {
+    background-color: black;
+    text-align: center;
+    padding: 302px 783px 128px 778px;
+}
+
+.dd {
+    font-size: 60px;
+    color: hsl(0, 100%, 65%);
+}
+
+.aa {
+    color: rgb(243, 213, 213);
+}
+
+.ss {
+    color: rgb(194, 148, 148);
+}
+
+.ww {
+    color: white;
+    font-size: 60px;
+}
+
+.ra {
+    padding-left: 230px;
+    padding-bottom: 50px;
+}
+.home{
+    padding-left: 800px;
+   
+}
