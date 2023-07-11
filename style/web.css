@@ -1,7 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 .header {
     background-color: #fad9d9;
     height: 850px;
-    width: 1920px;
+    width: 100%;
     justify-content: space-between;
 
 }
@@ -33,17 +38,19 @@
 
 .bolt {
     font-size: 80px;
+    padding-bottom: 30px;
 
 }
 
 .text {
     color: rgba(39, 39, 39, 0.60);
+    padding-bottom: 30px;
 
 }
 
 .all-primary {
     text-align: center;
-    padding top: 50px;
+   padding: 40px 0px;
 
 }
 
@@ -139,12 +146,17 @@
 .oll-primary {
     display: flex;
     gap: 20px;
-    padding-left: 240px;
-
+    padding: 40px 0px;
 }
-
 .mta {
-    padding-left: 240px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    width: 100%;
+    margin-top: 20px;
+}
+.mta img {
+    width: 100%;
 }
 
 .att {
@@ -185,6 +197,10 @@
 
 .aa {
     color: rgb(243, 213, 213);
+    
+}
+.cc{
+    padding-bottom: 30px;
 }
 
 .ss {
@@ -197,10 +213,56 @@
 }
 
 .ra {
-    padding-left: 230px;
-    padding-bottom: 50px;
+    position: relative;
+    
 }
 .home{
-    padding-left: 800px;
+ position: absolute;
    
+}
+
+.deal-wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 40px 0px;
+}
+.deal-wrapper img {
+    width: 100%;
+}
+.deal-content {
+    position: absolute
+}
+.deal-content input {
+    padding: 18px 20px;
+    border: 1px solid lightgray;
+    width: 500px;
+    margin-top: 20px;
+}
+.container {
+    width: 1350px;
+    margin: auto;
+}
+.aziz{
+    padding-bottom: 30px;
+}
+.rakib{
+    padding-bottom: 30px;
+}
+.first-second{
+    padding-top: 50px;
+}
+.smg{
+    padding-bottom: 20px;
+}
+.sss{
+    text-align: center;
+}
+.ccc{
+    text-align: center;
+}
+.aa{
+    padding: 30px;
 }
